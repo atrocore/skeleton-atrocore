@@ -1,9 +1,13 @@
 {
-  "name": "atrocore/skeleton-dam-no-demo",
-  "description": "Skeleton for AtroDAM",
-  "homepage": "https://atrodam.com",
+  "name": "atrocore/skeleton-atrocore",
+  "description": "Skeleton for AtroCORE",
+  "homepage": "https://atrocore.com",
   "minimum-stability": "stable",
   "require": {
-    "atrocore/core": "*"
+    "atrocore/core": "*",
+    "atrocore/export": "*",
+    "atrocore/export-http": "*",
+    "atrocore/import": "*",
+    "atrocore/import-http": "*"
   }
 }
