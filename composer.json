@@ -2,9 +2,9 @@
   "name": "atrocore/skeleton-atrocore",
   "description": "Skeleton for AtroCORE",
   "homepage": "https://atrocore.com",
-  "minimum-stability": "stable",
+  "minimum-stability": "RC",
   "require": {
-    "atrocore/core": ">=2.0.23",
+    "atrocore/core": ">=2.2.0",
     "atrocore/export": "*",
     "atrocore/export-http": "*",
     "atrocore/import": "*",
